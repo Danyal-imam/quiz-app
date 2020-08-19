@@ -52,12 +52,13 @@ body{
 }
 .type{
   padding: 5px 0 5px 5px;
+  width: 240px;
 }
 .type:focus{
   outline: none;
 }
 select {
-  width: 180px;
+  width: 240px;
   padding: 5px 0 5px;
 }
 .submitBtn{
@@ -65,9 +66,9 @@ select {
   border-radius: 5px;
   border: none;
   outline: none;
-  margin: 10px 0 20px;
+  margin: 30px 0 20px;
   padding:10px 0 10px;
-  width: 180px;
+  width: 240px;
 }
 .result{
   max-width: 600px;
